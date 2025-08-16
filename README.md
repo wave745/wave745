@@ -5,8 +5,7 @@
 
 📫 **How to reach me:**  
 [![Twitter](https://img.shields.io/badge/Twitter-%40czar__crypt-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/czar_crypt)  
-[![GitHub](https://img.shields.io/badge/GitHub-wave745-000000?style=flat&logo=github&logoColor=white)](https://github.com/wave745)  
-[![Email](https://img.shields.io/badge/Email-shazarno1%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:shazarno1@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-wave745-000000?style=flat&logo=github&logoColor=white)](https://github.com/wave745)    
 
 ⚡ **Fun fact:** I’m building AI bots that **predict the future**—literally.  
 
